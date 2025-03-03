@@ -98,7 +98,8 @@ The status will also be displayed on the LCD screen.
 - **LiquidCrystal Library** for controlling the LCD screen on Arduino.
 - **FFmpeg** for audio processing and conversion to a suitable format for Whisper.
 
-    
+## Demonstration of my Arduino  
+This [video](https://youtu.be/0AbyosnZ-v8) demonstrates my Arduino and how the code works.
 
 
      
